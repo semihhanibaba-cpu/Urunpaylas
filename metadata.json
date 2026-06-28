@@ -1,0 +1,6 @@
+{
+  "name": "Flash Stock",
+  "description": "Toptancıların ellerinde kalan fazla veya spot stokları WhatsApp/Telegram üzerinden hızlıca satmasını sağlayan anlık flaş satış platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
